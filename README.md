@@ -235,9 +235,6 @@ DIVISON
 ## CALCULATIONS
 <img width="252" height="342" alt="image" src="https://github.com/user-attachments/assets/6ae94378-bea9-4a2c-9058-e670f8985ca1" />
 
-
-
 ## RESULT
-
 Thus, the Assembly Language Programs for 8086 to perform arithmetic operations (Addition, Subtraction, Multiplication, and Division) using both direct and indirect methods were successfully written and executed using MASM.
 
